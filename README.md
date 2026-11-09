@@ -29,7 +29,7 @@ Download the desktop app from [concordvoice.com/download](https://www.concordvoi
 
 ## What else is kept here
 
-- Old `desktop-v*` releases. Desktop apps up to v0.2.48 update from this repository, so those releases stay. New releases are published from [Desktop](https://github.com/Concord-Voice/Desktop/releases).
+- Desktop release mirrors. Releases through v0.2.48 remain here for older update clients. Recent releases, including [desktop-v0.3.1](https://github.com/Concord-Voice/Feedback/releases/tag/desktop-v0.3.1), also appear here alongside the [Desktop releases](https://github.com/Concord-Voice/Desktop/releases); use Desktop for current downloads.
 - [CHANGELOG.md](CHANGELOG.md), the release history those old releases link to. Each repository now keeps its own changelog.
 - The [Terms of Service](docs/legal/terms-of-service.md), the [Privacy Policy](docs/privacy-policy.md) and the [commercial license](docs/legal/commercial-license.md), which older apps link to.
 - The [MinIO source-build materials](infrastructure/docker/minio/SOURCE-BUILD.md) and their [runbook](docs/runbooks/refresh-minio-image.md), which published images point to.
